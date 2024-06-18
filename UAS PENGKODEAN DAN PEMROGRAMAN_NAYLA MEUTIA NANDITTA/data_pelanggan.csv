@@ -1,0 +1,7 @@
+Kolom: 'Nama Pelanggan', 'Jenis Kelamin', 'Usia', 'Nomor Telepon'
+Data:
+- 'Alice', 'Perempuan', 30, '08123456789'
+- 'Bob', 'Laki-laki', 25, '08567891234'
+- 'Cathy', 'Perempuan', 35, '08111223344'
+- 'David', 'Laki-laki', 40, '08765432100'
+- 'Eva', 'Perempuan', 28, '08987654321'
